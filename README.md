@@ -23,8 +23,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/k-s-adithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="k-s-adithya" height="30" width="40" /></a>
 <a href="https://dev.to/https://dev.to/ksadithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ksadithya" height="30" width="40" /></a>
 <a href="https://twitter.com/k_s_adithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k_s_adithya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/k-s-adithya-946b69292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k-s-adithya-946b69292" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/26543576/k-s-adithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26543576/k-s-adithya" height="30" width="40" /></a>
+<a href="https://codesandbox.com/ksadithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ksadithya" height="30" width="40" /></a>
+<a href="https://fb.com/k s adithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="k s adithya" height="30" width="40" /></a>
+<a href="https://instagram.com/officialksadithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="officialksadithya" height="30" width="40" /></a>
+<a href="https://hashnode.com/@ksadithya204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ksadithya204" height="30" width="40" /></a>
+<a href="https://medium.com/@k.s.adithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@k.s.adithya" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/k_s_adithya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="k_s_adithya" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ksadithya248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ksadithya248" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ksadithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ksadithya" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ksadithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ksadithya" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@ksadithya248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ksadithya248" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/user_m1z0a6qdywz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user_m1z0a6qdywz" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/k.s.adithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="k.s.adithya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,4 +50,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firespiko&show_icons=true&locale=en" alt="firespiko" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firespiko&" alt="firespiko" /></p>
-
